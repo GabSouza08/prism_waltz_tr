@@ -2,7 +2,7 @@ This is an project in development and based on an older, instable build.
 
 ---
 
-## 🎭 *Dreamer Waltz: Timeline Rupture Mode* — Safefile Primer
+## 🎭 *Dreamer Waltz: Timeline Rupture Mode*
 
 ### 🧙 Game Overview:
 A 5v5 tactical battle set in a fractured reality. Players draft champions from ten unique Houses, each with unique traits and combat styles. The goal: survive the rupture and rewrite fate.
@@ -65,3 +65,4 @@ Each House grants passive bonuses to its champions, enhancing their performance 
 | 🌤️ **Ivory** | +2 EP per Turn, Immune to Turn Delay | Seekers of long-lost clarity—Ivory champions scale slowly toward luminous truth. |
 
 ---
+**More features will be added soon, so stay ready**(now featuring com vs com matches)
