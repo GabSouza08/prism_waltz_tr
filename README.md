@@ -1,4 +1,4 @@
-This is an project in development and based on an older, instable build.
+This is an project in development and based on an older, instable build. Find it at prism_waltz_bz
 
 ---
 
@@ -34,7 +34,8 @@ Each champion has:
 - **HP**: Health Points  
 - **EP**: Echo Power (used for abilities)  
 - **ATK / DEF / SPD**: Combat stats  
-- **Trait**: Passive ability tied to House essence  
+- **Trait**: Passive ability tied to House essence
+- **Echo Titles**: Alternate titles that doubles as abilities
 
 ---
 
@@ -65,4 +66,4 @@ Each House grants passive bonuses to its champions, enhancing their performance 
 | 🌤️ **Ivory** | +2 EP per Turn, Immune to Turn Delay | Seekers of long-lost clarity—Ivory champions scale slowly toward luminous truth. |
 
 ---
-**More features will be added soon, so stay ready**(now featuring com vs com matches)
+**More features will be added soon, so stay ready** (now featuring com vs com matches)
