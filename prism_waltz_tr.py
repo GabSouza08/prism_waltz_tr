@@ -2538,7 +2538,7 @@ EchoTitles = [
   {
     "title": "Forgebound Whisper of the Last Theorem",
     "effect_type": [
-      "burst",
+      "atk_buff",
       "shield"
     ],
     "target_type": "self",
@@ -2546,7 +2546,7 @@ EchoTitles = [
       "ATK": 10,
       "DEF": 0,
       "SPD": 0,
-      "HP": 0,
+      "HP": 20,
       "EP": 0
     },
     "ep_cost": 80
@@ -3003,14 +3003,14 @@ EchoTitles = [
     "title": "Pyreborn Testament",
     "effect_type": [
       "shield",
-      "aoe_damage"
+      "status_immunity"
     ],
     "target_type": "ally",
     "stat_modifiers": {
       "ATK": 5,
       "DEF": 5,
       "SPD": -5,
-      "HP": 0,
+      "HP": 20,
       "EP": 0
     },
     "ep_cost": 80
@@ -3506,7 +3506,7 @@ EchoTitles = [
       "ATK": 0,
       "DEF": 3,
       "SPD": -5,
-      "HP": 0,
+      "HP": 30,
       "EP": 5
     },
     "ep_cost": 80
@@ -4434,7 +4434,7 @@ EchoTitles = [
       "ATK": 10,
       "DEF": -2,
       "SPD": 5,
-      "HP": 0,
+      "HP": 20,
       "EP": 10
     },
     "ep_cost": 85
@@ -6530,7 +6530,7 @@ EchoTitles = [
       "ATK": 0,
       "DEF": 15,
       "SPD": 0,
-      "HP": 10,
+      "HP": 20,
       "EP": 0
     },
     "ep_cost": 85
